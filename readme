@@ -1,0 +1,34 @@
+Fake News Prediction Model
+Overview
+This project involves developing a machine learning model to predict fake news using Python, Scikit-learn, and Natural Language Processing (NLP) techniques.
+
+Features
+Data collection and preprocessing
+Train-test data split
+Implementation of a Logistic Regression model
+Model evaluation with accuracy, precision, recall, and F1 score
+Real-time fake news detection
+Steps
+1. Data Collection
+Collected news data for training and testing.
+
+2. Data Preprocessing
+Applied tokenization, stemming, and vectorization techniques to preprocess the news data.
+
+3. Train-Test Split
+Split the dataset into training and testing sets for model evaluation.
+
+4. Model Training
+Built and trained a Logistic Regression model to classify news as real or fake.
+
+5. Model Evaluation
+Evaluated model performance using metrics like accuracy, precision, recall, and F1 score.
+
+6. Real-Time Detection
+Deployed the trained model for real-time fake news detection.
+
+Requirements
+Python
+Scikit-learn
+NLTK (Natural Language Toolkit)
+Pandas
